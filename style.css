@@ -1,0 +1,29 @@
+body {
+    font-family: Arial;
+    background: #eef2ff;
+    text-align: center;
+}
+
+.todo {
+    background: white;
+    width: 350px;
+    margin: 100px auto;
+    padding: 25px;
+    border-radius: 10px;
+}
+
+input {
+    padding: 10px;
+}
+
+button {
+    padding: 10px;
+    background: #4f46e5;
+    color: white;
+    border: 0;
+}
+
+li {
+    text-align: left;
+    padding: 8px;
+}
